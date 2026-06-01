@@ -1,0 +1,10 @@
+sources:
+  - name: STAGE
+    database: PROJECT 
+    schema: STAGE  
+    tables:
+      - name: LISTINGS
+      - name: BOOKINGS
+
+      - name : HOSTS
+
